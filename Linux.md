@@ -4,26 +4,26 @@
 `apropos <keyword>`       | Searches through man pages' descriptions for instances of a given keyword.
 `cat`                     | Concatenate and print files.
 `whoami`                  | Displays current username.
-`id`                      | Returns users identity. 
+`id`                      | Returns users identity.
 `hostname`                | Sets or prints the name of the current host system.
 `uname`                   | Prints operating system name.
-`pwd`                     | Returns working directory name. 
+`pwd`                     | Returns working directory name.
 `ifconfig`                | The `ifconfig` utility is used to assign or view an address to a network interface and/or configure network interface parameters.
 `ip`                      | Ip is a utility to show or manipulate routing, network devices, interfaces, and tunnels.
 `netstat`                 | Shows network status.
 `ss`                      | Another utility to investigate sockets.
-`ps`                      | Shows process status. 
-`who`                     | Displays who is logged in. 
-`env`                     | Prints environment or sets and executes a command. 
-`lsblk`                   | Lists block devices. 
-`lsusb`                   | Lists USB devices.  
-`lsof`                    | Lists opened files. 
-`lspci`                   | Lists PCI devices. 
-`sudo`                    | Execute command as a different user.  
-`su`                      | The `su` utility requests appropriate user credentials via PAM and switches to that user ID (the default user is the superuser).  A shell is then executed.
-`useradd`                 | Creates a new user or update default new user information. 
-`userdel`                 | Deletes a user account and related files.  
-`usermod`                 | Modifies a user account.  
+`ps`                      | Shows process status.
+`who`                     | Displays who is logged in.
+`env`                     | Prints environment or sets and executes a command.
+`lsblk`                   | Lists block devices.
+`lsusb`                   | Lists USB devices.
+`lsof`                    | Lists opened files.
+`lspci`                   | Lists PCI devices.
+`sudo`                    | Execute command as a different user.
+`su`                      | The `su` utility requests appropriate user credentials via PAM and switches to that user ID (the default user is the superuser).A shell is then executed.
+`useradd`                 | Creates a new user or update default new user information.
+`userdel`                 | Deletes a user account and related files. 
+`usermod`                 | Modifies a user account.
 `addgroup`                | Adds a group to the system.  
 `delgroup`                | Removes a group from the system.  
 `passwd`                  | Changes user password.  
